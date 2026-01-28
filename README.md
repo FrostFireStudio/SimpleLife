@@ -1,3 +1,9 @@
-# SimpleLife
+# SimpleLife - Farming Sim
 Top down RPG Farming / Town game!
-![](https://geps.dev/progress/2)
+
+# CURRENT PROGRESS
+
+![Test](https://geps.dev/progress/0)
+![](https://geps.dev/progress/0)
+![](https://geps.dev/progress/0)
+![](https://geps.dev/progress/0)
