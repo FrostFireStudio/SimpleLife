@@ -1,3 +1,3 @@
 # SimpleLife
 Top down RPG Farming / Town game!
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/2)
