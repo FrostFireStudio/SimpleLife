@@ -15,7 +15,10 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 
 👾 Custom Desgins - ![](https://geps.dev/progress/0)
 
+![](Ffs1.PNG)
+
 <h1 align="center">Hi 👋,Welcome to FrostFireStudio</h1>
+
 <h3 align="center">A Indi-Game Development Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frostfirestudio&label=Profile%20views&color=0e75b6&style=flat" alt="frostfirestudio" /> </p>
