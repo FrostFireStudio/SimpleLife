@@ -68,7 +68,7 @@ Roadmaps are our way of showing our goals for each version of a game release. Ro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/frostfirestudiosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frostfirestudio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/frostfirestudiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frostfirestudio" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/hEj5PQJ8P2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hEj5PQJ8P2" height="30" width="40" /></a>
 </p>
 
