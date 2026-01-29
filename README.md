@@ -1,13 +1,12 @@
 ![](Simplelifetext.png)
-# SimpleLife - Farming Sim 🪓
+# SimpleLife - Farming Sim 
 Top down RPG Farming / Town game!
 
 Welcome to a whole new world of relaxing and farming! Simple Life is a Top down style farming / RPG game, with many ideas in play and being created we hope to be able to share some insight on the game progess soon! 
 
 
 
-# CURRENT PROGRESS
-
+# CURRENT PROGRESS 
 🗾 Map Design - ![](https://geps.dev/progress/17)
 
 🎭 Triggers & Events -![](https://geps.dev/progress/3)
@@ -15,6 +14,8 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 ⚙️ Game mechanics - ![](https://geps.dev/progress/10)
 
 👾 Custom Desgins - ![](https://geps.dev/progress/0)
+
+# In Game screenshots [ALPHA 1]
 
 ![](Ffs1.PNG)
 
