@@ -18,7 +18,7 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 
 # In Game screenshots [ALPHA 1]
 
-![](FFSIcon.ico)
+
 <h1 align="center">Hi 👋,Welcome to FrostFireStudio</h1>
 
 <h3 align="center">A Indi-Game Development Company</h3>
