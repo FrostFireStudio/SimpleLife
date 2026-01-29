@@ -19,6 +19,10 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 
 # In Game screenshots [ALPHA 1]
 
+![](MainMenu.PNG)
+![](AudreysFarm.PNG)
+![](beach.PNG)
+
 ## Roadmap
 
 Alpha 1.0.0 - CURRENT VERSION
