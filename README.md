@@ -7,14 +7,14 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 
 
 
-# CURRENT PROGRESS 
-🗾 Map Design - ![](https://geps.dev/progress/17)
+# CURRENT PROGRESS - Alpha 1.0.0
+🗾 Map Design - ![](https://geps.dev/progress/50)
 
-🎭 Triggers & Events -![](https://geps.dev/progress/3)
+🎭 Triggers & Events -![](https://geps.dev/progress/19)
 
-⚙️ Game mechanics - ![](https://geps.dev/progress/10)
+⚙️ Game mechanics - ![](https://geps.dev/progress/33)
 
-👾 Custom Desgins - ![](https://geps.dev/progress/0)
+👾 Custom Desgins - ![](https://geps.dev/progress/14)
 
 # In Game screenshots [ALPHA 1]
 
