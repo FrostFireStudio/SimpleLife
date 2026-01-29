@@ -19,7 +19,7 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 
 # In Game screenshots [ALPHA 1]
 
-![](MainMenu.PNG)
+![](MainMEnu.PNG)
 ![](AudreysFarm.PNG)
 ![](beach.PNG)
 
