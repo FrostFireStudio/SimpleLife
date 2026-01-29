@@ -4,7 +4,7 @@ Top down RPG Farming / Town game!
 
 Welcome to a whole new world of relaxing and farming! Simple Life is a Top down style farming / RPG game, with many ideas in play and being created we hope to be able to share some insight on the game progess soon! 
 
-![](alpha1.png)
+![](Alpha1.png)
 
 # CURRENT PROGRESS 
 🗾 Map Design - ![](https://geps.dev/progress/17)
