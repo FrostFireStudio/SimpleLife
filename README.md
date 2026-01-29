@@ -28,6 +28,7 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 Alpha 1.0.0 - CURRENT VERSION
 - [x] Different Levels
 - [x] Custom Menus
+- [x] Mini-Map
 - [ ] Add Changelog
 - [x] Add Fishing | Needs Work
 - [x] Add Farming | Needs Work
@@ -35,6 +36,7 @@ Alpha 1.0.0 - CURRENT VERSION
 - [ ] New sound effects
 - [ ] New UI
 - [ ] Trophy system
+
       
 Alpha 1.1
 - [ ] Update Fishing
