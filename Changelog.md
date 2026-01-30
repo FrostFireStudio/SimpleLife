@@ -3,7 +3,7 @@
 
 
 
-### 30/01/2026
+### 29/01/2026
 | ✅Added       | ⛔️Removed     
 | ------------- |:-------------:|
 | Various NPC   | MiniMap       |
@@ -16,4 +16,11 @@
 |     Map Rework  |    |
 | Levels  |       |
 | Leveled Skills      |    |
+
+### 30/01/2026
+| ✅Added       | ⛔️Removed     
+| ------------- |:-------------:|
+| 3 New Locations   |        |
+| Fishing System  |    |
+| Rework of Map Designs   |        |
 
