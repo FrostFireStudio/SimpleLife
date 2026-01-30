@@ -14,3 +14,6 @@
 | Town / Inn / Pub |   |
 |  Home |        |
 |     Map Rework  |    |
+| Levels  |       |
+| Leveled Skills      |    |
+
