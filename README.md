@@ -30,14 +30,20 @@ Alpha 1.0.0 - CURRENT VERSION
 - [x] Custom Menus
 - [x] Mini-Map
 - [ ] Add Changelog
-- [x] Add Fishing | Needs Work
-- [x] Add Farming | Needs Work
-- [ ] Add Shops
+- [x] Add Fishing
+- [x] Add Farming
 - [ ] New sound effects
 - [ ] New UI
-- [ ] Trophy system
+- [x] Trophy system
+- [x] NPC's
+- [x] Home
+- [x] Inn
+- [x] Shops
+- [x] Items
+- [x] Weapons
+- [ ] Crafting
+- [x] Currency Setup
 
-      
 Alpha 1.1
 - [ ] Update Fishing
 - [ ] Rework Farming system
