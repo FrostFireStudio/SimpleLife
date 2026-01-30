@@ -30,7 +30,7 @@ Alpha 1.0.0 - CURRENT VERSION
 - [x] Custom Menus | Needs Work
 - [x] Mini-Map | Currently Dissabled
 - [ ] Changelog | In Game
-- [ ] Fishing | Building from scratch
+- [x] Fishing | Building from scratch
 - [ ] Farming | Building from scratch
 - [ ] New sound effects | TBD
 - [ ] New UI | Under Work
@@ -47,7 +47,7 @@ Alpha 1.0.0 - CURRENT VERSION
 - [ ] Crafting | Building from Scratch
 - [x] Currency Setup | Gold
 
-Alpha 1.1
+Alpha 2
 - [ ] Update Fishing
 - [ ] Rework Farming system
 - [ ] Custom Players
@@ -55,6 +55,11 @@ Alpha 1.1
 - [ ] Custom Wildlife
 - [ ] Multi-language Support
 - [ ] Complete Rework Of TileSets
+- [ ] Expand Fishing
+- [ ] Expand Farming
+- [ ] Expand Story line
+- [ ] Add Rewards
+- [ ] Expanded Custom Menus
       
 Roadmaps are our way of showing our goals for each version of a game release. Roadmaps will be chaged and updated constantly! 
 
