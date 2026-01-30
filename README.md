@@ -29,9 +29,9 @@ Alpha 1.0.0 - CURRENT VERSION
 - [x] Different Areas | 11+
 - [x] Custom Menus | Needs Work
 - [x] Mini-Map | Currently Dissabled
-- [ ] Add Changelog | In Game
-- [ ] Add Fishing | Building from scratch
-- [ ] Add Farming | Building from scratch
+- [ ] Changelog | In Game
+- [ ] Fishing | Building from scratch
+- [ ] Farming | Building from scratch
 - [ ] New sound effects | TBD
 - [ ] New UI | Under Work
 - [x] Trophy system | More next update
