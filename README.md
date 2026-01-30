@@ -26,23 +26,26 @@ Welcome to a whole new world of relaxing and farming! Simple Life is a Top down 
 ## Roadmap
 
 Alpha 1.0.0 - CURRENT VERSION
-- [x] Different Levels
-- [x] Custom Menus
-- [x] Mini-Map
-- [ ] Add Changelog
-- [x] Add Fishing
-- [x] Add Farming
-- [ ] New sound effects
-- [ ] New UI
-- [x] Trophy system
-- [x] NPC's
-- [x] Home
-- [x] Inn
-- [x] Shops
-- [x] Items
-- [x] Weapons
-- [ ] Crafting
-- [x] Currency Setup
+- [x] Different Areas | 11+
+- [x] Custom Menus | Needs Work
+- [x] Mini-Map | Currently Dissabled
+- [ ] Add Changelog | In Game
+- [ ] Add Fishing | Building from scratch
+- [ ] Add Farming | Building from scratch
+- [ ] New sound effects | TBD
+- [ ] New UI | Under Work
+- [x] Trophy system | More next update
+- [x] NPC's | 6+
+- [x] Home | Customization In Later Update
+- [x] Inn | Place to Sleep & Heal
+- [x] Shops | 3+
+- [x] Items | More Next Update
+- [x] Misc Items | More Next Update
+- [x] Consumables | More Next Update
+- [x] Skills | Fishing / Hunting / Farming
+- [x] Weapons | Sword / Dagger / Battleaxe / Bow
+- [ ] Crafting | Building from Scratch
+- [x] Currency Setup | Gold
 
 Alpha 1.1
 - [ ] Update Fishing
