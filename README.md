@@ -65,7 +65,7 @@ Roadmaps are our way of showing our goals for each version of a game release. Ro
 
 
 <h1 align="center">Hi 👋,Welcome to FrostFireStudio</h1>
-![](FFS.PNG)
+![](Ffs1.PNG)
 <h3 align="center">A Indi-Game Development Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frostfirestudio&label=Profile%20views&color=0e75b6&style=flat" alt="frostfirestudio" /> </p>
